@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+.container{
+    font-family: sans-serif;
+    width: 100px;
+    height: 100%;
+    align-items: center;
+    margin: 20px;
+    overflow: hidden;
+}
+.hero-img{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    border-image-outset: 10px;
+
+h3{
+    text-align: center;
+    color: black;
+}
+
+
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+  
+        
